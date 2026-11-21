@@ -46,7 +46,20 @@ const nautill = {
 
   vibecoder: "totally not (maybe)"
 };
+
 ```
+### `latest commit`
+
+<div align="center">
+
+</div>
+
+```diff
++ Optimized the app
+- Added bugs to fix later
++ I meant fixed bugs
+```
+
 
 ## `02 — what i work with`
 
